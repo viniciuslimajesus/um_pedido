@@ -13,5 +13,6 @@ btnObvio.addEventListener('click', resposta)
 function resposta() {
     presente.style.display = 'block'
     opcs.style.display = 'none'
-    msg.innerHTML = 'Eu Te Amo princesa!'
+    msg.innerHTML = 'Eu Te Amo mil milhões princesa!'
+    msg.style.color = '#D92344'
 }
